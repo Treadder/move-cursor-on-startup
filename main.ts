@@ -1,6 +1,6 @@
 import { MarkdownView, Plugin, } from 'obsidian';
 
-export default class HelloWorldPlugin extends Plugin {
+export default class MoveCursorOnStartup extends Plugin {
 
 	async onload() {
 
